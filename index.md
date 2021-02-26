@@ -3,7 +3,7 @@
 
 <nav>
   <ul>
-    <li><a href="coconut.html">Coconuts in Kerala</a></li>
+    <li><a href="Coconut.md">Coconuts in Kerala</a></li>
   </ul>
 </nav>
 
